@@ -1,7 +1,7 @@
 """
-Module: comp110_lab07
+Module: comp110_lab09
 
-Starter code for COMP110 lab 07.
+Starter code for COMP110 lab 09.
 """
 
 import sys
@@ -36,8 +36,8 @@ def main():
     Plots the locations of earthquakes on a worldmap.
     """
 
-    # To Do: Call your get_eq_locs function then use the scatter function to
-    # plot these.
+    # To Do: Call your get_eq_locs function then use pyplot's scatter function to
+    # graph these.
     # The filename you should use is the full dataset (usgs_earthquakes_last_week.csv)
 
 
