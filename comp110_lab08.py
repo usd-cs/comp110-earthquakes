@@ -1,7 +1,7 @@
 """
-Module: comp110_lab09
+Module: comp110_lab08
 
-Starter code for COMP110 lab 09.
+Starter code for COMP110 lab 08.
 """
 
 import sys
